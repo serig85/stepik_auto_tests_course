@@ -1,4 +1,4 @@
-#Это версия 1.
+#Это версия 2 которая появилась через пару минут.
 
 def calc(x):
     return str(math.log(abs(12*math.sin(int(x)))))
